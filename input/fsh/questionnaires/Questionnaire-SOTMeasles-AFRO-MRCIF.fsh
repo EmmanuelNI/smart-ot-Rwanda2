@@ -32,7 +32,7 @@ Usage: #definition
     * insert Quest(reportingInstitution, Reporting Institution, group, false)
     * item[=]
       * insert Quest(reportingFacility, Reporting Health Facility, string, false)
-      * insert Quest(locality, Reporting District, string, false)
+      * insert Quest(reporting district hospital, Reporting District, string, false)
     * insert Quest(DateReportedNational, Date the form was received at national level, date, false)
 //Demographics
   * insert Quest(demographics, IDENTIFICATION:, group, false)
